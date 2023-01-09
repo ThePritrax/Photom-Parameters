@@ -1,0 +1,27 @@
+body{
+    background-color: #42855B;
+}
+
+.container{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    max-width: 38%;
+}
+
+h1{
+    color: rgb(26, 26, 26);
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 75px;
+    font-weight: 500;
+}
+
+table{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+th{
+    font-size: 24px;
+}
